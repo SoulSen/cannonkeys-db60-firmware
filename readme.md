@@ -2,6 +2,8 @@
 
 DB60 "Daughterboard 60" Keyboard
 
+This modifies LT(1, KC_LGUI), to have a lower threshold for key-tap. This is merely made just for me, but I am willing to help if you open an issue.
+
 * Keyboard Maintainer: [Andrew Kannan](https://github.com/awkannan)
 * Hardware Supported: STM32F072CBT6 (or equivalent)
 
